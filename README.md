@@ -14,7 +14,7 @@ Projects will be covering different aspects of data analysis, machine learning, 
 
 This repository serves as a portfolio for my work in data science. Each project will include deatailed documentation and code to illustrate the problem-solving process and the techniques applied. 
 
-##Projects
+## Projects
 
 List of projects included in this repository:
 
@@ -29,7 +29,7 @@ List of projects included in this repository:
    - **Key Skills:** Data analysis, data cleaning, ETL, data visualization
 
 
-##Technologies Used
+## Technologies Used
 
 - **Programming Languages:** Python, SQL
 - **Data Anlysis Libraries:**
