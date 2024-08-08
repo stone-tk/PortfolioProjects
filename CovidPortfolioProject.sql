@@ -11,7 +11,7 @@ WHERE continent IS NOT NULL
 ORDER BY 3,4
 
 
--- Select Data that we are going to be starting with
+-- Select Data that I am starting with
 
 SELECT Location, date, total_cases, new_cases, total_deaths, population
 FROM PortfolioProject.CovidDeaths
