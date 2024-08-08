@@ -10,7 +10,7 @@ Projects will be covering different aspects of data analysis, machine learning, 
 - [Technologies Used]
 - [Contact Information]
 
-  ##Introduction
+## Introduction
 
 This repository serves as a portfolio for my work in data science. Each project will include deatailed documentation and code to illustrate the problem-solving process and the techniques applied. 
 
